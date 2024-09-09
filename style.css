@@ -1,0 +1,19 @@
+.top-picks {
+  position: relative;
+  padding: 50px;
+}
+.top-picks__header {
+  border-left: solid 5px #73BA9B;
+  padding-left: 20px;
+}
+.top-picks__title {
+  margin: 0;
+  font-family: arial;
+}
+.top-picks__desc {
+  opacity: 0.7;
+}
+.top-picks__wrapper {
+  display: flex;
+  margin: 0 -5px;
+}/*# sourceMappingURL=style.css.map */
